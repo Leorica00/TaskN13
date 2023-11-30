@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="15dp"
-        tools:context=".register.RegisterFragment"
+        tools:context=".registration.RegisterFragment"
         android:orientation="vertical">
 
         <FrameLayout
